@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Picture1.png</file>
+    <file>ull-logo_1.png</file>
+    <file>SmY_ctJX.jpg</file>
+    <file>ull-logo_0.png</file>
+    <file>rechteck.png</file>
+  </qresource>
+</RCC>
